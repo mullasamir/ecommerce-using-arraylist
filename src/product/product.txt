@@ -1,0 +1,7 @@
+book,1,100
+pencil,1,10
+eraser,1,10
+shorpner,1,10
+notebook,1,50
+laptop,1,100000
+pen,1,10

@@ -1,0 +1,2 @@
+samir,mulla,20,male,abc@gmail.com,samir123
+abc,abc,20,m,abc@gmail.com,abc123
